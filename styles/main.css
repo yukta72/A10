@@ -1,0 +1,43 @@
+/* the styles for the elements */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 100%;
+}
+h1 {
+	font-size: 180%;
+	text-indent:left;
+	color: #800000
+}
+main p.indent {
+	text-indent: 2em;
+}
+h2 {
+	font-size: 170%;
+	color: #800000;
+}
+
+
+h3{
+	font-size: 130%;
+}
+
+
+/* the styles for the header */
+header img {
+	float: left;
+	margin-right: 1em;
+}
+header txt{
+	float: right;
+
+}
+
+/* the styles for the section */
+main {
+	clear: left;
+}
+footer{
+	text-align: center
+}
+/* the styles for the footer */
+
